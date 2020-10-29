@@ -1,0 +1,7 @@
+$  vi .xbindkeysrc
+: $vi .xbindkeysrc
+: rm docked_on_dell.sh.~1~ 
+$ rm docked_on_dell.sh.~1~ 
+$ rm docked_on_dell.sh.~1~ 
+: Svi mypackages.txt 
+: rm -rf Music.~1~/

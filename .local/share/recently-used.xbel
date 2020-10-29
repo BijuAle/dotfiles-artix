@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/biju/.config/suckless/dmenu-5.0.tar.gz" added="2020-10-27T08:57:06.517290Z" modified="2020-10-27T08:57:07.437168Z" visited="2020-10-27T08:57:06.517293Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-27T08:57:07.437162Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/biju/dwmblocks" added="2020-10-27T11:02:47.311084Z" modified="2020-10-27T11:02:47.802126Z" visited="2020-10-27T11:02:47.311086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-27T11:02:47.802120Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/biju/Documents/CV/2020.08.11/biju_cv.pdf" added="2020-10-28T15:34:06.217935Z" modified="2020-10-28T16:42:48.507016Z" visited="2020-10-28T15:34:06.217936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-28T16:42:48.507011Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/biju/Documents/Application/2020.10.28%20SSBH1/letter.pdf" added="2020-10-28T16:42:14.992681Z" modified="2020-10-28T16:42:28.616731Z" visited="2020-10-28T16:42:14.992683Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-28T16:42:28.616716Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/biju/Documents/Application/2020.10.28%20SSHB2/letter.pdf" added="2020-10-28T16:42:45.586935Z" modified="2020-10-28T16:42:45.586948Z" visited="2020-10-28T16:42:45.586937Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-28T16:42:45.586941Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/biju/.local/bin/statusbar.zip" added="2020-10-29T04:53:05.471881Z" modified="2020-10-29T04:53:05.942800Z" visited="2020-10-29T04:53:05.471885Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-29T04:53:05.942796Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/biju/Downloads/thunderbird-83.0b1.tar.bz2" added="2020-10-29T11:34:10.583397Z" modified="2020-10-29T11:34:28.507435Z" visited="2020-10-29T11:34:10.583398Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-29T11:34:28.507427Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/biju/Downloads/manjaro-xfce-20.1.2-minimal-201019-linux58.iso" added="2020-10-29T12:48:49.507491Z" modified="2020-10-29T13:05:41.550630Z" visited="2020-10-29T12:48:49.507494Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-10-29T13:05:41.550624Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
